@@ -1,0 +1,93 @@
+<!DOCTYPE HTML>
+<html>
+	<head> <link href="estilopagpri.css" rel="stylesheet">
+    <meta charset="utf-8">
+	<title>EMD SACEDÓN</title>
+	</head>
+	<body>
+	<div align="center"> <img style="height:100px; width:1250px; " src="imagenes/escudo.png"/> 
+	</div>
+	<br>
+		<div id="header">
+			<ul class="nav">
+				<li><a href="">INICIO</a>
+				<ul> 
+					<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/ESTADIO.html" target="_blank">UBICACIÓN</a></li>
+					<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/NOTICIAS.html" target="_blank">NOTICIAS</a></li>
+				</ul>
+			</li>
+				<li><a href="">PLANTILLA</a>
+					<ul>
+						<li><a href="">PORTEROS</a>
+						<ul>
+								<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/PLANTILLA/EDU.html" target="_blank">EDUARDO FUERTES</a></li>
+								<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/PLANTILLA/HECTOR.html" target="_blank">HÉCTOR PÉREZ</a></li>
+								<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/PLANTILLA/ALEX.html" target="_blank">ALEX GARCÍA</a></li>
+							</ul>
+						</li>
+						<li><a href="">ALAS</a>
+							<ul>
+								<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/PLANTILLA/RAUL.html" target="_blank">RAÚL DÍAZ</a></li>
+								<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/PLANTILLA/DAVICILLO.html" target="_blank">DAVID VIVAS</a></li>
+								<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/PLANTILLA/CARLOS.html" target="_blank">CARLOS JIMENEZ</a></li>
+								<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/PLANTILLA/ISRA.html" target="_blank">ISRAEL MARTÍNEZ </a></li>
+							</ul>
+						</li>
+
+						<li><a href="">PIVOTS</a>
+							<ul>
+								<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/PLANTILLA/MACEDA.html" target="_blank">RUBÉN MARCOS</a></li>
+								<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/PLANTILLA/JAVI.html" target="_blank">JAVIER DEL RIO</a></li>
+							</ul>
+						</li>
+
+						<li><a href="">CIERRES</a>
+							<ul>
+								<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/PLANTILLA/VI%C3%91AS.html" target="_blank">JORGE VIÑAS</a></li>
+								<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/PLANTILLA/CALATRAVA.html" target="_blank">DANIEL CALATRAVA</a></li>
+								<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/PLANTILLA/BERNI.html" target="_blank">DAVID BERNET</a></li>
+							</ul>
+						</li>
+
+						<li><a href="">ALA-PIVOT</a>
+							<ul>
+								<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/PLANTILLA/JAVIYEBRA.html" target="_blank">JAVIER SÁNCHEZ</a></li>
+								<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/PLANTILLA/GABI.html" target="_blank">GABRIEL FUENTE</a></li>
+								<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/PLANTILLA/ANDREW.html" target="_blank">ANDRÉS DARÍO</a></li>
+							</ul>
+						</li>
+
+						<li><a href="">ENTRENADORES</a>
+							<ul>
+								<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/PLANTILLA/PABLORIVES.html" target="_blank">PABLO RIVES</a></li>
+								<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/PLANTILLA/CHICHARRO.html" target="_blank">DAVID CHICHARRO</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li><a href="">PARTIDOS</a>
+					<ul>
+						<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/CLASIFICACION.html" target="_blank">CLASIFICACIÓN</a></li>
+						<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/CASA.html" target="_blank">CASA</a></li>
+						<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/FUERA.html" target="_blank">FUERA</a></li>
+					</ul>
+				</li>
+				<li><a href="file:///C:/Users/Dell/Documents/LMSG/MI_PAGINA_WEB/TIENDA.html" target="_blank">TIENDA</a></li>
+			</ul>
+		</div><br><br><br>
+<div align="center"><img style="height:400px; width:400px;" src="C:\Users\Dell\Documents\LMSG\MI_PAGINA_WEB\imagenes\equipocopa.jpg"/></div>
+<div style="text-align: center; position: relative; top: 50px;" class="footer"> 
+	<p> Copyright © 2020- Maria Esteban. EMD SACEDON. Sacedón, 19120 (Guadalajara). </p> 
+	<a href="https://www.facebook.com/SacedonFs"target="_blank"><img style="height:30px; width:30px;" src="C:\Users\Dell\Documents\LMSG\MI_PAGINA_WEB\imagenes\facebook.png"></a>
+	
+	<a href="https://twitter.com/SacedonFs?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"target="_blank"><img style="height:30px; width:30px;" src="C:\Users\Dell\Documents\LMSG\MI_PAGINA_WEB\imagenes\twitter.png"></a>
+ 	
+ 	<a href="https://www.instagram.com/sacedonfs/?hl=es"target="_blank"><img style="height:30px; width:30px;" src="C:\Users\Dell\Documents\LMSG\MI_PAGINA_WEB\imagenes\instangram.png"></a>
+ 	
+ 	<a href="https://www.youtube.com/channel/UCpov2dPvJPtas-H0lpb6aRg"target="_blank"><img style="height:30px; width:30px;" src="C:\Users\Dell\Documents\LMSG\MI_PAGINA_WEB\imagenes\youtube.png"></a>
+ 
+</div>
+
+
+	</body>
+</html>
